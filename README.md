@@ -1,16 +1,22 @@
-### Hi there 👋
+##### Hebit ✨
 
-<!--
-**hebit/hebit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm a brazilian guy that loves web development, design and inovation.  
+- Computer Science Student at Federal University of Bahia, Brazil   
+- Volunteer at [@InfoJrUFBA](https://github.com/InfoJrUFBA) (Junior Enterprise)
+- Pronouns: Whatever you want!  
+---
+##### Dev
+I started in basic web languages for front-end personal projects and gradually I tried some new technologies.
+- Git
+- HTML+CSS
+- JS (React 💜)
+- PHP (Laravel ♥️)
+---
+##### I've been working with  
+- Typescript 
+- Graphql  
+- NodeJs  
+---
+##### Additional Information
+- I love Math and Programming Contest!   
+- Fun fact: I mistake some colors name (green and red)
